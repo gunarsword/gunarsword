@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunarsword
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning spring boot and angular
+- 🌱 I’m currently learning spring boot and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
